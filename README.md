@@ -44,3 +44,5 @@ compile 'org.tachyonproject:tachyon-client:0.6.4'
 ```
 libraryDependencies += "org.tachyonproject" % "tachyon-client" % "0.6.4"
 ```
+
+[![Coverage Status](https://coveralls.io/repos/ooq/tachyon/badge.svg?branch=master&service=github)](https://coveralls.io/github/ooq/tachyon?branch=master)
